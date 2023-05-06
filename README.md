@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghareeb97&label=Profile%20views&color=0e75b6&style=flat" alt="ghareeb97" /> </p>
 
-- 🌱 I’m currently learning **Intermediate python**
+- 🌱 I’m currently studying my master degree at uOttawa
 
 - 📝 I regularly write articles on [https://hashnode.com/@mohamedghareeb](https://hashnode.com/@mohamedghareeb)
 
